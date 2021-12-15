@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pickachu75013@gmail.com
+	name = marina bouvart
